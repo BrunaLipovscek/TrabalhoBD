@@ -1,5 +1,6 @@
 # TrabalhoBD
 Trabalho relacionado à disciplina de Banco de Dados - ADS - UNINTER
+
 No arquivo "trabalho - relatório" contém as diretivas para execução.
 
 # 🚗 Projeto Locadora de Veículos - MySQL
