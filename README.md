@@ -15,7 +15,7 @@ Projeto desenvolvido para a disciplina **Banco de Dados**, envolvendo modelagem 
 - **Resultados**: Prints das consultas executadas.
 
 ## 🔍 Modelo Entidade-Relacionamento
-![MER](/docs/MER/modelo_conceitual.png)
+![MER](locadora-veiculos-mysql/docs/MER)
 
 ## ▶️ Como Executar
 1. Execute os scripts em ordem no MySQL Workbench:
